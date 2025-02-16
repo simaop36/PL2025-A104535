@@ -1,6 +1,4 @@
-# README.md
-
-## Processamento de Ficheiro CSV em Python sem utilizar o módulo `csv`
+# Processamento de Ficheiro CSV em Python sem utilizar o módulo `csv`
 
 Este projeto implementa um script Python que processa um ficheiro CSV com informações sobre obras musicais, sem utilizar o módulo `csv`. O objetivo é extrair e organizar os dados para gerar três resultados principais:
 
