@@ -5,3 +5,5 @@ Este repositório guarda as minhas resoluções dos tpcs propostos pelo docente 
 Nome: Simão Pedro Sá Pereira;
 
 Nr de Aluno: A104535;
+
+![](A104535.png)
