@@ -1,0 +1,28 @@
+Tipo: COMMENT, Valor: # DBPedia: obras de Chuck Berry, Linha: 2
+Tipo: SELECT, Valor: select, Linha: 5
+Tipo: VARIABLE, Valor: ?nome, Linha: 5
+Tipo: VARIABLE, Valor: ?desc, Linha: 5
+Tipo: WHERE, Valor: where, Linha: 5
+Tipo: LBRACE, Valor: {, Linha: 5
+Tipo: VARIABLE, Valor: ?s, Linha: 6
+Tipo: PREDICATE, Valor: a, Linha: 6
+Tipo: PREDICATE, Valor: dbo:MusicalArtist, Linha: 6
+Tipo: DOT, Valor: ., Linha: 6
+Tipo: VARIABLE, Valor: ?s, Linha: 7
+Tipo: PREDICATE, Valor: foaf:name, Linha: 7
+Tipo: STRLIT, Valor: {'LIT': 'Chuck Berry', 'LANG': 'en'}, Linha: 7
+Tipo: DOT, Valor: ., Linha: 7
+Tipo: VARIABLE, Valor: ?w, Linha: 8
+Tipo: PREDICATE, Valor: dbo:artist, Linha: 8
+Tipo: VARIABLE, Valor: ?s, Linha: 8
+Tipo: DOT, Valor: ., Linha: 8
+Tipo: VARIABLE, Valor: ?w, Linha: 9
+Tipo: PREDICATE, Valor: foaf:name, Linha: 9
+Tipo: VARIABLE, Valor: ?nome, Linha: 9
+Tipo: DOT, Valor: ., Linha: 9
+Tipo: VARIABLE, Valor: ?w, Linha: 10
+Tipo: PREDICATE, Valor: dbo:abstract, Linha: 10
+Tipo: VARIABLE, Valor: ?desc, Linha: 10
+Tipo: RBRACE, Valor: }, Linha: 11
+Tipo: LIMIT, Valor: LIMIT, Linha: 11
+Tipo: NUMLIT, Valor: 1000, Linha: 11
