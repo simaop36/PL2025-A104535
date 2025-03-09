@@ -1,0 +1,38 @@
+[
+    {
+        "cod": "A01",
+        "nome": "Coca-Cola 330ml",
+        "quant": 11,
+        "preco": 1.2
+    },
+    {
+        "cod": "B02",
+        "nome": "Red Bull 250ml",
+        "quant": 4,
+        "preco": 2.5
+    },
+    {
+        "cod": "C03",
+        "nome": "Snickers",
+        "quant": 9,
+        "preco": 1.0
+    },
+    {
+        "cod": "D04",
+        "nome": "Batata Lays Clássica",
+        "quant": 10,
+        "preco": 1.5
+    },
+    {
+        "cod": "E05",
+        "nome": "Pepsi 330ml",
+        "quant": 5,
+        "preco": 1.1
+    },
+    {
+        "cod": "F06",
+        "nome": "MONSTER 500ML",
+        "quant": 6,
+        "preco": 1.5
+    }
+]
