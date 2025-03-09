@@ -41,10 +41,10 @@ O stock é guardado num ficheiro JSON com a seguinte estrutura para cada produto
 
 ```json
 {
-    "cod": "A01",               // Código do produto
-    "nome": "Coca-Cola 330ml",  // Nome do produto
-    "quant": 8,                 // Quantidade disponível
-    "preco": 1.2                // Preço em euros
+    "cod": "A01",
+    "nome": "Coca-Cola 330ml",
+    "quant": 8,
+    "preco": 1.2
 }
 ```
 
